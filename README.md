@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/khdevtt"><img src="https://api.daily.dev/devcards/f5a86b79e7a44e06bceeabb957dd0611.png?r=hp2" width="400" alt="Karen Headley's Dev Card"/></a>
+<a href="https://app.daily.dev/khdevtt"><img src="https://api.daily.dev/devcards/f5a86b79e7a44e06bceeabb957dd0611.png?r=hp2" width="200" alt="Karen Headley's Dev Card"/></a>
 
 <!--
 **KHDEVTT/KHDEVTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
